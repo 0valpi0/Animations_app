@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Sber_app9_animations</string>
+    <string name="animation_drawable">Animation drawable</string>
+    <string name="view_animations">View animations</string>
+    <string name="object_animations">Object animations</string>
+    <string name="value_animations">Value animations</string>
+    <string name="customView_animations">Custom view animations</string>
+    <string name="progress_template">%d %%</string>
+</resources>
